@@ -6,6 +6,7 @@
 ## Лекции и практики
 ### DL Tricks and tips
 <mark style="background: #FFB86CA6;">от 19 декабря</mark>
+
 🎥Видеоматериалы
 - [лекция](https://disk.yandex.ru/i/Tdo0YWO5jOxC8Q)
 - [практика](https://disk.yandex.ru/i/futDP5_fqSr8oA)
@@ -19,6 +20,7 @@
 
 ### Attention and transformer
 <mark style="background: #FFB86CA6;">от 19 декабря</mark>
+
 🎥Видеоматериалы
 - [лекция](https://disk.yandex.ru/i/WQ6ceivbCDsK_Q)
 - практика
